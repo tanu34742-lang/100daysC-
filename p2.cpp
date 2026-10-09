@@ -12,3 +12,12 @@ int main()
 }
 
 }
+
+// ****
+// ****
+// ****
+// ****
+// LOOP WILL BEGIN FROM I=0 I WALLA OUTER LOOP
+// J WALA INNER LOOP
+// SQUARE PATTERN ANSWER 
+// N=4 TIMES LOOP WILL RUN

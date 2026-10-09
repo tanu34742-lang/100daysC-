@@ -16,3 +16,8 @@ int main()
         cout<<endl;
     }
 } 
+
+// A
+// BC
+// DEF
+// GHIJ

@@ -15,3 +15,8 @@ int main()
         cout<<endl;
     }
 } 
+
+// A
+// AB
+// ABC
+// ABCD
