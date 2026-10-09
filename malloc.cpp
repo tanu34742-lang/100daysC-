@@ -15,7 +15,7 @@ int main()
 
 
         }
-    cout<<"enter"<<n<<"marks";
+    cout<<" enter "<<" "<<n<<" "<<"marks : ";
     int sum=0;
     for(int i=0;i<n;i++)
     {
@@ -25,7 +25,7 @@ int main()
 
     }
 
-    cout<<"total"<<"sum";
+    cout<<"total = "<<sum;
     free(arr);
     return 0;
 
