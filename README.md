@@ -1,4 +1,4 @@
-# 🇨➕➕ MY C++ DSA TRACK 
+# </> C++ DSA TRACK  
 welcome to my C++ DSA journey 
 
 | Day | Date | Project  | Status | Code |
